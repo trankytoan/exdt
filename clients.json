@@ -1,0 +1,16 @@
+[
+    {
+        "ClientID": "PC001",
+        "User": "user1",
+        "Password": "hashed_pass1",
+        "Active": true,
+        "LicenseExpire": "2026-01-01"
+    },
+    {
+        "ClientID": "PC002",
+        "User": "user2",
+        "Password": "hashed_pass2",
+        "Active": true,
+        "LicenseExpire": "2025-12-31"
+    }
+]
